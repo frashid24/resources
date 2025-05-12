@@ -4,9 +4,7 @@ This is a simple, responsive HTML page listing insurance carriers and their clai
 
 ## Live Page
 
-🔗 [View the live site here](https://yourusername.github.io/resources/)
-
-> Replace `yourusername` with your actual GitHub username once the page is live.
+🔗 [View the live site here](https://frashid24.github.io/resources/)
 
 ## Purpose
 
